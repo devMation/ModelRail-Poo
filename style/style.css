@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: url('../pictures/locomotive141r420_modelisme.jpeg') center/cover fixed;
+
+
+}
+
+.encadrement {
+    display: block;
+    background-color: rgba(255, 255, 255, 0.731);
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+
+.listArticles {
+    text-align: center;
+
+}

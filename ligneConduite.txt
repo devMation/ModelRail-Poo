@@ -1,0 +1,31 @@
+// Connexion  + Logique
+// Inscription  + Logique
+// profil  + Logique
+Admin
+// panierCommande  + Logique
+
+
+// Une référence produit  + Logique + database
+// Une quantité
+
+
+
+Préremplir les champs quand je fait un update il faut que je fait un select par id
+
+
+
+
+
+
+anim Js AU SCROLL ET AU CLICK AINSI
+
+METTRE UN SONT SON AUDIO SUR LE BOUTON COMMANDER
+
+
+-> Lister les fonctionnalité dans un certain ordres
+
+
+
+
+
+
